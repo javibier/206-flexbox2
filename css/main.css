@@ -132,6 +132,7 @@ body {
   padding: 0px 30px;
   width: 20%;
   height: 300px;
+  border-style: solid;
 }
 
 #content p span {
