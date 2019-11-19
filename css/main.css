@@ -134,9 +134,8 @@ body {
 }
 
 #content2 {
-  border-left: solid 1;
-  border-right: solid;
-  border-color: red;
+  border-left: 1px solid red;
+  border-right: 1px solid red;
 }
 
 #content p span {
