@@ -134,7 +134,7 @@ body {
 }
 
 #content2 {
-  border-left: solid;
+  border-left: solid 1;
   border-right: solid;
   border-color: red;
 }
