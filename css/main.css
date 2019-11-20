@@ -111,7 +111,7 @@ header {
 }
 
 .intro{
-
+  display: flex;
 }
 
 .wrapper {
