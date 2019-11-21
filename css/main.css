@@ -107,6 +107,7 @@ body {
 }
 
 header {
+   display: flex;
    color: #fff;
 }
 
