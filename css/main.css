@@ -110,6 +110,13 @@ body {
   justify-content: center;
 }
 
+.flex-container {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: space-between;
+  max-width: 1200px;
+}
+
 header {
    margin: 0;
    width: 90%;
