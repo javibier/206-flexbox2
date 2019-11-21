@@ -118,7 +118,7 @@ body {
   max-width: 1200px;
 }
 
-header {
+header, footer {
    width: 90%;
    display: flex;
    justify-content: flex-start;
@@ -168,10 +168,6 @@ main {
   font-family: 'Lora', sans-serif;
 }
 
-footer {
-  color: #fff;
-  padding: 0px 30px;
-}
 
 
 
