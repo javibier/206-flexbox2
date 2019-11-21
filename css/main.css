@@ -119,12 +119,9 @@ body {
 }
 
 header {
-   margin: 0;
    width: 90%;
    display: flex;
    justify-content: flex-start;
-   padding: 0px 30px;
-   color: #fff;
 }
 
 main {
