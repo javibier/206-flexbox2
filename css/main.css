@@ -130,41 +130,6 @@ main {
   justify-content: flex-end;
 }
 
-.wrapper {
-  /* set the display to flex and use the justify-content & align-items properties to center all child elements on the page */
-  margin: 0;
-  height: 20em;
-  width: 100%;
-  display: flex;
-  align-items: top;
-}
-
-#content1, #content2, #content3 {
-  /* set the display to flex and use the justify-content & align-items properties to center the text within the div*/
-  display: flex;
-  justify-content: flex-end;
-  align-items: center;
-  background: #222;
-  background:rgba(0,0,0,0.7);
-  color: #fff;
-  font-family: 'Source Sans Pro', sans-serif;
-  font-weight: 300;
-  font-size: 1.25em;
-  line-height: 1.5em;
-  padding: 0px 30px;
-  width: 30%;
-  height: 300px;
-}
-
-#content2 {
-  border-left: 1px solid red;
-  border-right: 1px solid red;
-}
-
-#content p span {
-  font-family: 'Lora', sans-serif;
-}
-
 .flex-items {
   display: flex;
   justify-content: center;
