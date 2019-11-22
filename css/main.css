@@ -139,7 +139,9 @@ main {
   border-bottom: 1px solid #555;
 }
 
-
+footer {
+  border-top: 1px solid #fff;
+}
 
 
 
