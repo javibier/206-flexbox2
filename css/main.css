@@ -119,7 +119,7 @@ body {
 }
 
 header, footer {
-   width: 90%;
+   width: 100%;
    display: flex;
    justify-content: flex-start;
 }
