@@ -97,7 +97,7 @@ textarea {
 
 /*Large Background Image*/
 html {
-   background: black;
+   background-color: black;
    height: 100%
    width: 100%;
 }
@@ -127,7 +127,7 @@ header, footer {
 main {
   width: 100%;
   display: flex;
-  justify-content: flex-end;
+  justify-content: center;
 }
 
 .flex-items {
