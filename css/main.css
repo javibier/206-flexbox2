@@ -131,6 +131,10 @@ main {
   border-bottom: 1px solid #fff;
 }
 
+main p {
+  font-size: 1.35em;
+}
+
 .flex-items {
   display: flex;
   justify-content: center;
